@@ -1,0 +1,15 @@
+projectName = Civiliation Simulator
+
+projectDesc = Starts with one person and overtime more people start coming in
+
+projectBase = 	int x = random(width/2);
+				int y = random(height/2);
+				int populationCount = 0;
+				
+				void setup(){
+					size(1280, 720);
+				}
+				
+				void draw(){
+					background(255);
+				}
